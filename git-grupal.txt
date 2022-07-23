@@ -1,0 +1,9 @@
+Integrantes:
+Blanca Pinot
+Jaime Cornejo (ausente)
+Ruta del repositorio GitHub:
+https://github.com/blancapinot/bpinotgithub1
+Cambios Blanca Pinot:
+1.commit cd42e5a: Initial commit.
+2.commit b677f1e: agrega archivos del proyecto grupal a git.
+3.commit d6f05b5: cambios de texto en readme, clientes e index.
