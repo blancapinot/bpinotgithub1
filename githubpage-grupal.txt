@@ -1,0 +1,8 @@
+Trabajo Grupal GitHub Page
+
+Integrantes del equipo: 
+Blanca Pinot
+Jaime Cornejo
+
+Ruta repositorio GitHub: https://github.com/blancapinot/bpinotgithub1
+Ruta pública del sitio web: https://blancapinot.github.io/bpinotgithub1/
