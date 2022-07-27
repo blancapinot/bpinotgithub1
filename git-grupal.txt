@@ -7,3 +7,8 @@ Cambios Blanca Pinot:
 1.commit cd42e5a: Initial commit.
 2.commit b677f1e: agrega archivos del proyecto grupal a git.
 3.commit d6f05b5: cambios de texto en readme, clientes e index.
+Cambios Jaime Cornejo:
+4 27- 07 commit: 50c3002055a61c706c5a0980a64b35558699f6db " Ingresar un saludo en index.html" 
+5 27-07 commit: 84f5e581efb4b69f6cb35513b9b6ec42f7efce79  " Agrgar listas de precios a productos.html" 
+6 26-07 commit: 57355f6c4c18ee8348f69c3e576f3c853f1cb135  " Agregar imagenes a productos.html
+7 26:07 commit: 4ad3a841544b34bbe99f814d8897b2b79c412322  " Agregar foto a clientes.html"
