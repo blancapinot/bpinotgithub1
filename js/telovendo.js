@@ -1,0 +1,1 @@
+document.getElementById("loquesea").innerHTML =Date()
